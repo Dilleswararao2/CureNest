@@ -23,7 +23,7 @@ const About = () => {
         <p>WHY <span className='text-gray-700 font-semibold'>CHOOSE US</span> </p>
       </div>
 
-      <div className='flex flex-row md:flex-rowmb-20'>
+      <div className='flex flex-row flex-wrap md:flex-rowmb-20'>
         <div className='border px-10 md:px-16 py-8 sm:py-16 flex flex-col gap-5 text-[15px] hover:bg-primary hover:text-white transition-all duration-300 text-gray-600 cursor-pointer'>
           <b>Efficiency:</b>
           <p>Streamlined appointment scheduling that fits into your busy lifestyle.</p>
